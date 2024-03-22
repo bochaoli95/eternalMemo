@@ -27,6 +27,7 @@ class Entity {
         List<Memory> memories = memoryMapper.selectList(null);
         users.forEach(System.out::println);
         memories.forEach(System.out::println);
+        //111
         //
     }
 
